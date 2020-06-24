@@ -1,4 +1,4 @@
-# RRP (Reversatile's Rich Presence)
+# Reversatile's Rich Presence
 - Install node.js
 - Run Install Packages
 - Enter your application ID found at https://discord.com/developers/applications
